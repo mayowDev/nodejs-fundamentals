@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "node-js-course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node inedx",
+    "dev": "nodemon index"
+  },
+  "author": "mayowDev",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
